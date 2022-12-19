@@ -1,0 +1,1 @@
+print('[Exemplo 3]  Escreva um programa que leia um número do usuário e mostre a raíz quadrada desse número e arredonde para baixo esse número se for necessário.')

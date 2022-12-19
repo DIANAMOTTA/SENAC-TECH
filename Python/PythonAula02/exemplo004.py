@@ -1,0 +1,1 @@
+print('[Exemplo 4]  Escreva um programa que retorne um número aleatório inteiro entre dois extremos escolhidos pelo usuário.')
